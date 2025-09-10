@@ -17,7 +17,7 @@ Membangun sistem untuk mempermudah perawatan dan pemantauan tanaman aquascape di
 - Relay 6 chanel, kipas, heater, LED indikator, pompa peristaltik  
 - Telegram Bot API untuk monitoring
 
-
+![Monitoring Telegram](https://github.com/user-attachments/assets/efcbf221-4e60-4547-beb7-40805867e3fd)
 ![Gambar WhatsApp 2025-07-03 pukul 01 56 31_4502d35b](https://github.com/user-attachments/assets/dee9e6eb-c230-48ca-971e-807bbf631b99)
 ![Gambar WhatsApp 2025-07-03 pukul 01 56 30_fe988a5e](https://github.com/user-attachments/assets/8a633acd-3b81-4493-b4bb-880584f34248)
 ![Gambar WhatsApp 2025-07-03 pukul 01 56 22_a4c1d998](https://github.com/user-attachments/assets/670e719c-78ce-43fb-ba4c-04f59bbe450d)
